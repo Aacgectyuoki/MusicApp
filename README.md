@@ -5,15 +5,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Versions Used
 
 - **Node.js**: v14.21.3
-- **React**: v18.2.0
-- **React-DOM**: v18.2.0
+- **React**: v17.0.2
+- **React-DOM**: v17.0.2
 - **React-Scripts**: v5.0.1
 - **Axios**: v1.7.2
 - **Express**: v4.19.2
 - **Express-GraphQL**: v0.12.0
-- **GraphQL**: v15.9.0
+- **GraphQL**: v16.9.0
 - **Mongoose**: v8.4.4
 - **Dotenv**: v16.4.5
+- **MongoDB**: v6.8.0
 
 ## Available Scripts
 
