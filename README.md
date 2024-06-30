@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Music and User Service
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Versions Used
+
+- **Node.js**: v14.21.3
+- **React**: v18.2.0
+- **React-DOM**: v18.2.0
+- **React-Scripts**: v5.0.1
+- **Axios**: v1.7.2
+- **Express**: v4.19.2
+- **Express-GraphQL**: v0.12.0
+- **GraphQL**: v15.9.0
+- **Mongoose**: v8.4.4
+- **Dotenv**: v16.4.5
 
 ## Available Scripts
 
